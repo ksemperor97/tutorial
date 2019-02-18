@@ -1,5 +1,11 @@
 This text file is for managing the list of papers which I have read.
 
+<<<<<<< HEAD
 오 바뀌지 않은 상태로 있잖아?
 
 이거 어떻게 된 일이지?
+=======
+만약 이 파일마저 바뀐다면?
+>>>>>>> tutorial
+
+
